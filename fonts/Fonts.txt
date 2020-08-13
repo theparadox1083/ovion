@@ -2,5 +2,23 @@
 font-family: Barazhad;
 font-style: normal;
 font-weight: 400;
-src: url(YOUR RAW.GITHACK URL) ;
+src: url(https://rawcdn.githack.com/theparadox1083/ovion/a9072294c265ae798b1024dc8bef48f1a8043235/fonts/barazhad/Barazhad.otf) ;
+}
+@font-face{
+font-family: Iokharic;
+font-style: normal;
+font-weight: 400;
+src: url(https://rawcdn.githack.com/theparadox1083/ovion/a9072294c265ae798b1024dc8bef48f1a8043235/fonts/barazhad/Barazhad.otf) ;
+}
+@font-face{
+font-family: Davek;
+font-style: normal;
+font-weight: 400;
+src: url(https://rawcdn.githack.com/theparadox1083/ovion/a9072294c265ae798b1024dc8bef48f1a8043235/fonts/barazhad/Barazhad.otf) ;
+}
+@font-face{
+font-family: Rellanic;
+font-style: normal;
+font-weight: 400;
+src: url(https://rawcdn.githack.com/theparadox1083/ovion/a9072294c265ae798b1024dc8bef48f1a8043235/fonts/barazhad/Barazhad.otf) ;
 }
